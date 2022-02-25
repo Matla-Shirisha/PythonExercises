@@ -1,0 +1,11 @@
+# Creating an empty Dictionary  
+Dict = {}
+print(Dict)  
+ 
+# with Integer Keys  
+Dict = {1: 'Geeks', 2: 'For', 3: 'Geeks'}
+print(Dict)  
+ 
+# with Mixed keys  
+Dict = {'Name': 'Geeks', 1: [1, 2, 3, 4]}
+print(Dict) 
